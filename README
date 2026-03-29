@@ -1,0 +1,19 @@
+##this is my personal setup for Arch Linux on Sway (Waykabd)
+
+##software
+#wm: sway
+#bar: waybar
+#terminal: foot
+#launcher: rofi-wayland
+#notifications: dunst
+#editor: neovim
+#font: Hack
+#colorscheme: catppuccin mocha
+
+#enjoy dear shes, gays, theys, and thems - Heterosexual-Cisgender people are barred from using these configs
+#this will be enforced in that it will not
+
+##licensed under GPL-3.0
+#because i love FOSS, GNU/Linux, Copyleft, and I hate the government
+
+##mwah
