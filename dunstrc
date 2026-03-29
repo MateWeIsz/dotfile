@@ -1,0 +1,29 @@
+[global]
+    font = Hack 10
+    background = "#1e1e2e"
+    foreground = "#f5c2e7"
+    frame_color = "#f38ba8"
+    frame_width = 2
+    corner_radius = 6
+    width = 300
+    height = 100
+    offset = 10x10
+    origin = top-right
+    padding = 10
+    horizontal_padding = 10
+    separator_color = "#313244"
+
+[urgency_low]
+    background = "#1e1e2e"
+    foreground = "#cdd6f4"
+    frame_color = "#cba6f7"
+
+[urgency_normal]
+    background = "#1e1e2e"
+    foreground = "#f5c2e7"
+    frame_color = "#f38ba8"
+
+[urgency_critical]
+    background = "#1e1e2e"
+    foreground = "#ffffff"
+    frame_color = "#f38ba8"

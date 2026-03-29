@@ -1,0 +1,48 @@
+* {
+    font-family: Hack;
+    font-size: 12px;
+}
+
+window#waybar {
+    background: #1a1025;
+    color: #cdd6f4;
+}
+
+#workspaces button {
+    color: #f5c2e7;
+    padding: 0 8px;
+    opacity: 0.4;
+}
+
+#workspaces button.focused {
+    color: #f5c2e7;
+    opacity: 1.0;
+}
+
+#clock {
+    padding: 0 12px;
+    color: #ffffff;
+}
+
+#battery {
+    padding: 0 12px;
+    color: #ff6e81;
+}
+
+#battery.charging {
+    color: #cba6f7;
+}
+
+#network {
+    padding: 0 12px;
+    color: #cba6f7;
+}
+
+#pulseaudio {
+    padding: 0 12px;
+    color: #f5c2e7;
+}
+
+#tray {
+    padding: 0 12px;
+}
